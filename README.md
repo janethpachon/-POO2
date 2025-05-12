@@ -1,2 +1,2 @@
-# -POO-||
+# -POO2
 TALLERES POO
